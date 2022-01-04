@@ -9,8 +9,9 @@ Country = "🇮🇳"
 ```
 #### 
 [![telegram badge](https://img.shields.io/badge/@Shubhanshutya-30302f?style=for-the-badge&logo=telegram)](https://t.me/M1CKEY_0P)
-[![mailid badge](https://img.shields.io/badge/Shubhanshutya-30302f?style=for-the-badge&logo=gmail)](mailto: amanhack706@gmail.com)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MickeyxD&label=Profile%20Views&color=orange&style=flat-square" alt="Mickeyxd" /> </p>
+[![mailid badge](https://img.shields.io/badge/Aman-30302f?style=for-the-badge&logo=gmail)](mailto: amancode18@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman&label=Profile%20Views&color=orange&style=flat-square" alt="Aman" /> </p>
+
 
 - 😄I'm Still Learning Git & GitHub
 - ☀️Python Lover
